@@ -1,0 +1,23 @@
+{
+  "clientName": [
+    "Hakan Guney"
+  ],
+  "mealType": [
+    "Snack "
+  ],
+  "dishName": [
+    "Seasonal Fruit Salad"
+  ],
+  "dishNumber": 45557,
+  "stationNumber": "Station w",
+  "barcodeNumber": "w045557",
+  "ingredients": [
+    {
+      "name": "Sunflower Seeds",
+      "portion": "2.0g"
+    }
+  ],
+  "dietaryRestrictions": [
+    "No dairy, gluten, no onions, no cashews, no pistachios"
+  ]
+}

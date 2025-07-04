@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv/
+
+# Optional: ignore Python cache
+__pycache__/
+*.pyc
+
+# Optional: VS Code settings
+.vscode/
+
+# Optional: Node stuff (in case you use npm later)
+node_modules/
+
+# Ignore Mac Default file
+.DS_Store
+
+# Ignore Source Code
+source/
+
+# Ignore db
+db.sqlite3
